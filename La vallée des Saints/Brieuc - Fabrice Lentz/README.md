@@ -1,4 +1,4 @@
-ReconstructionDataSet
+Reconstruction DataSet of the statue of Brieuc. Sculptor : Fabrice Lentz
 
 Set of images for doing 3d reconstruction
 
